@@ -130,7 +130,7 @@ const Container = styled.main`
     gap: 30px;
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 25px;
+    margin-bottom: 45px;
     @media (max-width: 548px) {
       flex-direction: column;
       gap: 24px;
@@ -143,9 +143,9 @@ const Container = styled.main`
     letter-spacing: -0.02em;
     text-transform: capitalize;
     color: var(--text-s);
-    margin-bottom: 12px;
+    margin-bottom: 24px;
     @media (max-width: 548px) {
-      margin-bottom: 19px;
+      margin-bottom: 27px;
     }
   }
   .todays_views {
